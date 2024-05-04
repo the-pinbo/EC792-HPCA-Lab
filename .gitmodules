@@ -1,3 +1,6 @@
 [submodule "Lab3/MIPS-single-cycle"]
 	path = Lab3/MIPS-single-cycle
 	url = git@github.com:the-pinbo/MIPS-single-cycle.git
+[submodule "Lab4/MIPS-5-Stage-Pipeline-Project"]
+	path = Lab4/MIPS-5-Stage-Pipeline-Project
+	url = git@github.com:the-pinbo/MIPS-5-Stage-Pipeline-Project.git
